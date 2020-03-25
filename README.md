@@ -19,4 +19,6 @@
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull requests for review.
+
 2020 Git.Training
