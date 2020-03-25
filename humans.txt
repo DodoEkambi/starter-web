@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gökhan Gültekin  DodoEkambi@github.com @kultiginAbey
 
 # THANKS
 
